@@ -9,6 +9,9 @@ I'm also dedicating myself to learn networking and hacking techniques (for the b
 
 ## Contact
 [Twitter](https://twitter.com/mighty_spaceman)
+
 [Youtube](https://www.youtube.com/c/mightyspaceman)
+
 [Discord:](https://discord.gg/AsCeXnMTYZ)MightySpaceman#3439
-[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+[Email](mailto:spaceman384@outlook.com.com?subject=[Big chungus sends his regards]%20Source%20Han%20Sans)
