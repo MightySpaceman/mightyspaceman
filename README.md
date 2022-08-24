@@ -14,4 +14,4 @@ I'm also dedicating myself to learn networking and hacking techniques (for the b
 
 [Discord:](https://discord.gg/AsCeXnMTYZ) MightySpaceman#3439
 
-[Email](mailto:spaceman384@outlook.com.com?subject=Big%Chungus%Sends%His%Regards)
+[Email](mailto:spaceman384@outlook.com.com?subject=[]Big%Chungus%Sends%His%Regards)
