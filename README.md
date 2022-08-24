@@ -11,4 +11,4 @@ I'm also dedicating myself to learn networking and hacking techniques (for the b
 [Twitter](https://twitter.com/mighty_spaceman
 [Youtube](https://www.youtube.com/c/mightyspaceman)
 [Discord:](https://discord.gg/AsCeXnMTYZ)MightySpaceman#3439
-[Email](mailto:spaceman384@outlook.com?subject=[Big chungus sends his regards])
+[Email](mailto:spaceman384@outlook.com?subject=Big chungus sends his regards)
