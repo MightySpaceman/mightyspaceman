@@ -12,6 +12,6 @@ I'm also dedicating myself to learn networking and hacking techniques (for the b
 
 [Youtube](https://www.youtube.com/c/mightyspaceman)
 
-[Discord:](https://discord.gg/AsCeXnMTYZ)MightySpaceman#3439
+[Discord:](https://discord.gg/AsCeXnMTYZ) MightySpaceman#3439
 
 [Email](mailto:spaceman384@outlook.com.com?subject=[GitHub]%20Source%20Han%20Sans)
