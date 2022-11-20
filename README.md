@@ -1,13 +1,10 @@
 # MightySpaceman
 #### It's me!
 
-Hi, I'm a Tasmanian programmer, author and youtuber.
+Hi, I'm a Tasmanian amateur/learning programmer, newbie author, and aerospace enthusiast. 
 I live in Hobart, the capital of Tasmania, which is a really nice place, right on a river.
 
-I'm currently writing a book about the future of space exploration, which will probably release somewhere in the next month or so. No guarantees though.
-I'm also dedicating myself to learn networking and hacking techniques (for the better of course, #ethicalhacking), which has been pretty fun so far...I still have a way to go on the networking side, but I've been making lots of software involving social engineering and a sprinkle of trolling, which you can take a look on my [repositories page](https://github.com/MightySpaceman?tab=repositories). I'm especially proud of my [UltimateGrabber](https://github.com/MightySpaceman/UltimateGrabber/) script.
-
-All of this hacking stuff has also brought me to get into some light electronics, and I've bought a little raspberry pi pico to mess around with. I'm looking forward to making some cool projects in the future, as well as trying out keystroke injection with the pico. I can feel the power coursing through it's little copper traces.
+[UPDATED BIO COMING SOON CUZ REASONS AND IT's LATE RIGHT NOW I NEED TO SLEEEP AAAAAAAAA]
 
 ## Contact
 [Twitter](https://twitter.com/mighty_spaceman)
