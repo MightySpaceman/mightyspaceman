@@ -7,7 +7,7 @@ I live in Hobart, the capital of Tasmania, which is a really nice place, right o
 [UPDATED BIO COMING SOON CUZ REASONS AND IT's LATE RIGHT NOW I NEED TO SLEEEP AAAAAAAAA]
 
 ## Contact
-[Twitter](https://twitter.com/mighty_spaceman)
+[Mastodon (Main place where I'll be)](https://aus.social/@mightyspaceman)
 
 [Youtube](https://www.youtube.com/c/mightyspaceman)
 
