@@ -11,7 +11,7 @@ I'm still figuring out what the best thing to dedicate myself to learning will b
 ## Contact
 [Mastodon (Main place where I'll be)](https://aus.social/@mightyspaceman)
 
-[Discord:](https://discord.gg/AsCeXnMTYZ) MightySpaceman#3439
+[Discord:](https://discord.gg/AsCeXnMTYZ)
 
 [Youtube](https://www.youtube.com/c/mightyspaceman)
 
