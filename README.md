@@ -11,8 +11,6 @@ I'm still figuring out what the best thing to dedicate myself to learning will b
 ## Contact
 [Mastodon (Main place where I'll be)](https://aus.social/@mightyspaceman)
 
-[Discord:](https://discord.gg/AsCeXnMTYZ)
+[Discord](https://discord.gg/AsCeXnMTYZ)
 
-[Youtube](https://www.youtube.com/c/mightyspaceman)
-
-[Email](mailto:spaceman384@outlook.com.com?subject=[GitHub]%20Big%20Chungus%20Sends%20His%20Regards)
+[Email](mailto:spaceman384@outlook.com.com)
