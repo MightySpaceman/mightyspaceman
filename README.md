@@ -1,5 +1,3 @@
-# MightySpaceman
-
 Hi, I'm a Tasmanian amateur/learning programmer, newbie author, and aerospace enthusiast. 
 I live in Hobart, the capital of Tasmania, which is a really nice place, right on a river.
 
