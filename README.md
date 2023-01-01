@@ -4,8 +4,8 @@ I live in Hobart, the capital of Tasmania, which is a really nice place, right o
 I just finished and published a [book](https://www.amazon.com/dp/B0BMYP6QW6?ref_=cm_sw_r_cp_ud_dp_R95FS9BT4WSDCXEE34TD) on kindle on the future of space exploration, which was really fun to write - now that I have that weight off my back, I hope to get better at programming and computer science. Right now I'm not really that good at coding, so I want to hone my skills and make some stuff. Lately I've been playing around with node.js
 
 <a href="https://github.com/KaramveerSidhu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaramveerSidhu&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaramveerSidhu&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MightySpaceman&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MightySpaceman&theme=buefy&layout=compact" />
 </a>
 
 ## Contact
