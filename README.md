@@ -8,12 +8,6 @@ I just finished and published a [book](https://www.amazon.com/dp/B0BMYP6QW6?ref_
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MightySpaceman&theme=radical&layout=compact" />
 </p>
 
-<html>
-<script>
-alert('hello world');
-</script>
- </html>
-
 
 ## Contact
 [Mastodon (Main place where I'll be)](https://aus.social/@mightyspaceman)
