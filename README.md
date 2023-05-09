@@ -7,5 +7,5 @@ General tech nerd interested in Linux, Programming, Aerospace, Electronics and E
 </p>
 </html>
 
-# Contact: [@m_spaceman:matrix.org](https://matrix.to/#/@m_spaceman:matrix.org) or spaceman385@proton.me
-# [mightyspaceman.com]
+Contact: [@m_spaceman:matrix.org](https://matrix.to/#/@m_spaceman:matrix.org) or spaceman385@proton.me
+[mightyspaceman.com]
