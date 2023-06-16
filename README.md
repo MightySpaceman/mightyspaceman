@@ -6,7 +6,7 @@ Website: [mightyspaceman.com](https://mightyspaceman.com)
 
 <html>
 <p>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MightySpaceman&theme=radical&show_icons=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MightySpaceman&theme=radical&show_icons=true&hide_rank" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MightySpaceman&theme=radical&layout=compact" />
 </p>
 </html>
