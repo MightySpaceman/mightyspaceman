@@ -1,4 +1,4 @@
-STEM and space nerd :3
+STEM and space nerd
 
 Find me on Mastodon: [@mightyspaceman@aus.social](https://aus.social/deck/@mightyspaceman)
 
