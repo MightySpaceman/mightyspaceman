@@ -1,4 +1,6 @@
-General tech nerd interested in Linux, Programming, Aerospace, Electronics and Engineering/Robotics.
+STEM and space nerd
+
+Find me on Mastodon: [@mightyspaceman@aus.social](https://aus.social/deck/@mightyspaceman)
 
 Contact: [@m_spaceman:matrix.org](https://matrix.to/#/@m_spaceman:matrix.org) or spaceman385@proton.me
 
