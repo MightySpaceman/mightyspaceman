@@ -2,8 +2,6 @@ General tech nerd interested in Linux, Programming, Aerospace, Electronics and E
 
 Contact: [@m_spaceman:matrix.org](https://matrix.to/#/@m_spaceman:matrix.org) or spaceman385@proton.me
 
-Website: [mightyspaceman.com](https://mightyspaceman.com)
-
 <html>
 <p>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MightySpaceman&theme=radical&show_icons=true&hide_rank=true" />
