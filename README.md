@@ -1,5 +1,7 @@
 STEM and space nerd
 
+remind me to find a better username...
+
 Find me on Mastodon: [@mightyspaceman@aus.social](https://aus.social/deck/@mightyspaceman)
 
 Discord: spaceman0x2a / Email: spaceman385@proton.me
